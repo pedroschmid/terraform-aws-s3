@@ -1,0 +1,10 @@
+
+# APPLICATION #
+ENVIRONMENT = "YOUR ENVIRONMENT"
+
+# AWS #
+AVAILABILITY_ZONES = ["us-east-1a", "us-east-1b"]
+REGION             = "us-east-1"
+PROFILE            = "YOUR PROFILE"
+ACCESS_KEY         = "YOUR ACCESS KEY"
+SECRET_KEY         = "YOUR SECRET KEY"
